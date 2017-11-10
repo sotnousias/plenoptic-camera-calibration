@@ -11,9 +11,7 @@ end
 
 disp_str = sprintf('Processing %s ....', file1{1});
 disp(disp_str);
-% micro-lens radius, used for scaling the centers.
-radius = 15;
-scale = 2*radius;
+
 
 % max number of neighbours to the corner in the central sub-aperture image
 % considered.
@@ -25,6 +23,11 @@ load([path1 file1{1}]);
 
 % load the micro-lens centers center_list (2xN array)
 load([path1 'microlens_center_list.mat'])
+
+% micro-lens radius, used for scaling the centers.
+radius = radius;
+scale = 2*radius;
+
 
 % % load the corners in the central sub-aperture image
 % % positions of the corner in the image are [corner(3,:) corner(4,:)]
