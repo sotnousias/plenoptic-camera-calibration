@@ -22,7 +22,7 @@ load([path1 'microlens_center_list.mat']);
 im = imread([path1 file1{1}(numel('nearCorner') + 2:end-3) 'png']);
 
 
-microImgRad = 15;
+microImgRad = radius;
 allPts = [];
 imUse = rgb2gray(im2double(im));
 
