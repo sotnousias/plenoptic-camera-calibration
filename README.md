@@ -58,7 +58,7 @@ can be easily wrapped to run for all the types. If different number than 1, 2, 3
 procceed assuming all the lenses are the same. In order for this to work though, the correspondences have to be assigned 
 in a similar manner. Saves the intrinsics and extrinsics after the linear solution and the non-linear optimisation.
 
-<img align="right" width="100" height="65" src="(https://user-images.githubusercontent.com/30299128/34172099-d6c43ae8-e4be-11e7-842e-4a089c983fbe.gif">
+<img align="right" width="100" height="65" src="https://user-images.githubusercontent.com/30299128/34172099-d6c43ae8-e4be-11e7-842e-4a089c983fbe.gif">
 
 ```
 cornerLinearSolutionManyImages
