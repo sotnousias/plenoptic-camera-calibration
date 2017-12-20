@@ -63,5 +63,5 @@ cornerLinearSolutionManyImages
 ```
 
 <p align="center">
-  <img width="350" height="190" src=https://user-images.githubusercontent.com/30299128/34209021-877c93b8-e55e-11e7-82e2-660339c8df2e.gif">
+  <img width="350" height="190" src="https://user-images.githubusercontent.com/30299128/34209021-877c93b8-e55e-11e7-82e2-660339c8df2e.gif">
 </p>
