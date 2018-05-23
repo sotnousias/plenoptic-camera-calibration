@@ -1,5 +1,5 @@
 # plenoptic-camera-calibration
-Matlab code for plenoptic camera calibration. CHeck the supplementary video for an overview of the process.
+Matlab code for plenoptic camera calibration. Check the supplementary video for an overview of the process.
 
 Before running the following steps ensure that the micro-lens centers are available. If not, run LightFieldCalib_Step1_MicroLensCenter using your camera's
 white images.
